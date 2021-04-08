@@ -1,0 +1,22 @@
+
+
+    h1 {
+        color: blueviolet;
+    };
+
+    img {
+        width: 410px;
+    }
+
+    #thirdDiv {
+        height: 510px;
+        width: 610px;
+        background-color:forestgreen;
+        padding: 50px;
+        border: 10px solid blue;
+    }
+
+    #spanId {
+        font-size: 20px;
+        margin: 50px;
+    }
